@@ -15,6 +15,6 @@
 </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiercohen&show_icons=true&theme=dark&locale=en&layout=compact" alt="javiercohen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiercohen&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="javiercohen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiercohen&show_icons=true&theme=dark&locale=en" alt="javiercohen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiercohen&show_icons=true&theme=synthwave&locale=en" alt="javiercohen" /></p>
